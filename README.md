@@ -50,6 +50,7 @@ It shows the distance of a random variable from its mean. It is calcualted as
 # Program :
 
 Name : THARUN SRIDHAR 
+
 Reg No : 212223230230
 
 ```
